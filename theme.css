@@ -353,12 +353,12 @@ body {
 
 /* source mode */
 .markdown-source-view {
-  font-family: var(--font-text-theme);
+  font-family: var(--font-editor-theme);
 }
 
 /* live preview */
 .markdown-source-view.is-live-preview {
-  font-family: var(--font-editor-theme);
+  font-family: var(--font-text-theme);
 }
 
 /* reading mode */
